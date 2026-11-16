@@ -2,6 +2,8 @@
 
 ## UDP INIT/DATA prototype
 
+DEMO Video Link: https://drive.google.com/file/d/1QOvAKRsMP8VZ33LPmMsCFijljELs_e5d/view?usp=sharing
+
 This Phase 1 prototype uses only the Python standard library. The server and
 client exchange CRC-protected binary UDP packets with a fixed 22-byte header:
 
